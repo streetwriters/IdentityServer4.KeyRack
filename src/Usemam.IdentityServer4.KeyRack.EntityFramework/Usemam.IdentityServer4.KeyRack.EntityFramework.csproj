@@ -3,8 +3,9 @@
   <PropertyGroup>
     <PackageId>Usemam.IdentityServer4.KeyRack.EntityFramework</PackageId>
     <PackageVersion>0.2.0</PackageVersion>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <Description>Zero-effort key management extension for IdentityServer4. This package adds database key persistence via Microsoft.EntityFrameworkCore</Description>
+    <TargetFramework>net7.0</TargetFramework>
+    <Description>Zero-effort key management extension for IdentityServer4. This package adds
+      database key persistence via Microsoft.EntityFrameworkCore</Description>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,9 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.0" />
-    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.0" />
   </ItemGroup>
 
 </Project>
