@@ -2,7 +2,7 @@
 
   <ItemGroup>
     <ProjectReference
-      Include="..\..\src\IdentityServer4.KeyRack\IdentityServer4.KeyRack.csproj" />
+      Include="..\..\src\Streetwriters.IdentityServer4.KeyRack\Streetwriters.IdentityServer4.KeyRack.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

@@ -7,9 +7,12 @@
     <PropertyGroup>
         <Authors>Streetwriters (Private) Limited</Authors>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <RepositoryUrl>https://github.com/streetwriters/IdentityServer4.KeyRack</RepositoryUrl>
+        <RepositoryUrl>https://github.com/streetwriters/Streetwriters.IdentityServer4.KeyRack</RepositoryUrl>
         <PackageTags>IdentityServer;Key management</PackageTags>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <PackageProjectUrl>https://github.com/streetwriters/Streetwriters.IdentityServer4.KeyRack</PackageProjectUrl>
+        <RepositoryType>git</RepositoryType>
+        <Copyright>Copyright (c) 2023 Streetwriters (Private) Limited</Copyright>
     </PropertyGroup>
 
 </Project>

@@ -6,9 +6,9 @@
 
   <ItemGroup>
     <ProjectReference
-      Include="..\..\src\IdentityServer4.KeyRack.DataProtection\IdentityServer4.KeyRack.DataProtection.csproj" />
+      Include="..\..\src\Streetwriters.IdentityServer4.KeyRack.DataProtection\Streetwriters.IdentityServer4.KeyRack.DataProtection.csproj" />
     <ProjectReference
-      Include="..\..\src\IdentityServer4.KeyRack.EntityFramework\IdentityServer4.KeyRack.EntityFramework.csproj" />
+      Include="..\..\src\Streetwriters.IdentityServer4.KeyRack.EntityFramework\Streetwriters.IdentityServer4.KeyRack.EntityFramework.csproj" />
   </ItemGroup>
 
   <ItemGroup>
