@@ -5,9 +5,9 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <Authors>Usein Mambediiev</Authors>
+        <Authors>Streetwriters (Private) Limited</Authors>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <RepositoryUrl>https://github.com/usemam/Usemam.IdentityServer4.KeyRack</RepositoryUrl>
+        <RepositoryUrl>https://github.com/streetwriters/IdentityServer4.KeyRack</RepositoryUrl>
         <PackageTags>IdentityServer;Key management</PackageTags>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
     </PropertyGroup>

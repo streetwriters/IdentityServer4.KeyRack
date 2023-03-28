@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-using Usemam.IdentityServer4.KeyRack.EntityFramework;
+using IdentityServer4.KeyRack.EntityFramework;
 
 namespace Database
 {
